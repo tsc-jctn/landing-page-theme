@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: lifesource_stack.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: LifeSource<br>Recovery
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+LifeSource is the Sanctuary's healing and recovery ministry, established to help those fighting "the good fight" against addiction. <br><br>Wednesdays at 6:30

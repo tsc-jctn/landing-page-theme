@@ -1,10 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: thursday-group.jpg
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Thursday Night Bible Study
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+Join us for Bible Study every Thursday night at 7:00 PM
