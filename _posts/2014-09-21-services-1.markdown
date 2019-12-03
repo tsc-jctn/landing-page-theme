@@ -5,6 +5,4 @@ category: Services
 title: Sunday Worship
 description: |
 ---
-  Join us for a time of worship on Sunday afternoons at 2:00 PM.
-  
-  Sanctuary Kid's Super Church begins after praise and worship.
+  Join us for a time of worship on Sunday afternoons at 2:00 PM.<br>Sanctuary Kid's Super Church begins after praise and worship.

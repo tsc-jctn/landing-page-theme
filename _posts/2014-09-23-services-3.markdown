@@ -2,7 +2,7 @@
 layout: default
 img: lifesource_stack.png
 category: Services
-title: LifeSource<br>Recovery
+title: LifeSource Recovery
 description: |
 ---
 LifeSource is the Sanctuary's healing and recovery ministry, established to help those fighting "the good fight" against addiction. <br><br>Wednesdays at 6:30
