@@ -28,5 +28,7 @@ social:
     url: https://www.facebook.com/TheSanctuaryTN/
   - title: soundcloud
     url: https://soundcloud.com/thesanctuarytn
-#  - title: linkedin
-#    url: 
+  - title: phone
+    url: "tel://1-423-833-8050/"
+  - title: address
+    url: https://goo.gl/maps/XP3L2CAJ68LL8nB76

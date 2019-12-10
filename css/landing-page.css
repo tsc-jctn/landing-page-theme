@@ -31,8 +31,8 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/backg.jpg) no-repeat center center;
-    background-size: cover;
+    background: url(../img/SanctuaryLogo_tr_1024x317.png) no-repeat center center;
+    background-size: 65%;
 }
 
 .intro-message {

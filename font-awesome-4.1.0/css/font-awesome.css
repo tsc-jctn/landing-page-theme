@@ -247,6 +247,9 @@
 .fa-home:before {
   content: "\f015";
 }
+.fa-address:before {
+	content:"\f015";
+}
 .fa-file-o:before {
   content: "\f016";
 }
