@@ -1,0 +1,9 @@
+---
+layout: default
+img: 
+category: Services
+title: Online Giving
+description: |
+---
+<a name="chapter4"></a><a href="https://www.eservicepayments.com/cgi-bin/Vanco_ver3.vps?appver3=Fi1giPL8kwX_Oe1AO50jRp1Rqr3ivukLX4Z9hiGGXEQS2zfZgdvtsgHvl4ll5gbek0PpduXvnt8gXUeZjQYbn35NHMuDSClX7AF4ZDnC_VA=">Click here to give online.</a>
+LifeSource is the Sanctuary's healing and recovery ministry, established to help those fighting "the good fight" against addiction. <br><br> Call us to setup a meeting: <a href="tel://1-423-444-3558/">+1 (423) 444-3558</a>
