@@ -1,6 +1,6 @@
 ---
 layout: default
-img: Sunday Worship.png
+img: Sunday-Worship.jpg
 category: Services
 title: Sunday Worship
 description: |
